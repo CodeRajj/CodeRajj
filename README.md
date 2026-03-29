@@ -5,7 +5,7 @@
 📍 Dubai, UAE &nbsp;|&nbsp; 📧 rajvirsinhjrathod@gmail.com &nbsp;|&nbsp; 📞 +971 508 414 919
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajvir-rathod)
-[![Portfolio](https://img.shields.io/badge/Portfolio-c9a84c?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rajvir-rathod.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-c9a84c?style=for-the-badge&logo=google-chrome&logoColor=white)](https://coderajj.github.io)
 [![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajvirsinhjrathod@gmail.com)
 
 ---
